@@ -1,1 +1,1 @@
-# program-menuhin-memori
+# Jangan jalankan program itu!!!!
