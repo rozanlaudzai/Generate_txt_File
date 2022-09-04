@@ -1,1 +1,1 @@
-# Jangan jalankan program itu!!!!
+# Don't run that program!!!!
