@@ -1,1 +1,1 @@
-# Don't run this program !
+This program will infinite generate files with txt extension.
